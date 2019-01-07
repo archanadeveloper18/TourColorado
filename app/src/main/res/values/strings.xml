@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Tour @ Colorado</string>
+
+    <!-- Category name for Attractions [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Category name for Hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for Restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for Entertainments [CHAR LIMIT=20] -->
+    <string name="category_entertainments">Entertainments</string>
+
+    <string name="attractions_redrock">Red Rock Amphitheather</string>
+    <string name="redrock_location">Alameda Pkwy, Morrison, Colorado</string>
+    <string name="attractions_royalgorge">Royal Gorge Bridge</string>
+    <string name="royalgorge_location">County Road, Canon City, Colorado</string>
+    <string name="attractions_gardenofgods">Garden Of The Gods</string>
+    <string name="gardenofgods_location">Colorado Spring, Colorado</string>
+    <string name="hotels_fourseasons">Four Seasons Hotel</string>
+    <string name="fourseasons_location">1111 14th st,Denver,Colorado</string>
+    <string name="fourseasons_phone">303 389 3000</string>
+    <string name="hotels_ramble">The Ramble Hotel</string>
+    <string name="ramble_location">1280 25th st,Denver,Colorado</string>
+    <string name="ramble_phone">720 996 6300</string>
+    <string name="hotels_crawford">The Crawford Hotel</string>
+    <string name="crawford_location">1701 wynkoop st,Denver,Colorado</string>
+    <string name="crawford_phone">720 460 3700</string>
+    <string name="entertainment_botanic">Denver Botanic Gardens</string>
+    <string name="botanic_location">1007 york st,Denver,Colorado</string>
+    <string name="entertainment_wildanimal">The Wild Animal Sanctuary</string>
+    <string name="wildanimal_location">299 county Road 53,Denver,Colorado</string>
+    <string name="entertainment_waterworld">Water World</string>
+    <string name="waterworld_location">8801 North Pecos st,Denver,Colorado</string>
+    <string name="restaurant_hashtag">HachTAG</string>
+    <string name="hashtag_location">10155 E 29th Dr,Denver,Colorado</string>
+    <string name="hashtag_phone">303 993 6896</string>
+    <string name="restaurant_tables">Tables</string>
+    <string name="tables_location">2267 kearney st,Denver,Colorado</string>
+    <string name="tables_phone">303 388 0299</string>
+
+</resources>

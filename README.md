@@ -2,7 +2,7 @@
 The goal is to create a Tour Guide App which presents relevant information to a user who’s visiting your city. The app can list top attractions, restaurants, public places, or events for the city. It uses a  TabLayout  combined with Fragments to move between screens.
 
 
-MEETS SPECIFICATIONS
+## MEETS SPECIFICATIONS
 
 ->App contains at least 4 lists of relevant attractions for a location
 
@@ -13,7 +13,7 @@ MEETS SPECIFICATIONS
 ->At least one list includes pictures of the location.
 
 
-FUNCTIONALITY
+## FUNCTIONALITY
 
 ->App contains a custom object for storing location information .
 
